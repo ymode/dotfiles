@@ -11,6 +11,7 @@ _just my dot files_
 
 [alacritty](https://github.com/alacritty/alacritty) : [dotfile](https://github.com/ymode/dotfiles/blob/main/alacritty.toml)
 
-![image](https://github.com/ymode/dotfiles/assets/5312047/5085aeed-fe59-4151-b641-12eb2b588147)
+![image](https://github.com/ymode/dotfiles/assets/5312047/3cfb7159-5dcb-4b6f-893e-5bb61d232223)
+
 
 
